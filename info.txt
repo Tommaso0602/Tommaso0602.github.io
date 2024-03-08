@@ -1,0 +1,127 @@
+
+SCRIPT MAPS
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2817.9034871088047!2d7.583183876343247!3d45.0674688710703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47886b1536439293%3A0xa62772ed374df5e0!2sIstituto%20Tecnico%20Ettore%20Majorana!5e0!3m2!1sit!2sit!4v1709046902319!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+COLOR PICKER
+https://redketchup.io/color-picker
+
+COLORI
+#1E2935 //sfondo
+
+LINK
+https://www.youtube.com/@itismajo
+https://www.instagram.com/iti.majorana/?theme=dark
+https://www.facebook.com/itimajo
+
+
+
+DAL 1976 A SCUOLA 2.0
+L'ITI E. Majorana opera dal 1976 nella sede di Grugliasco formando periti industriali in informatica, 
+elettronica ed in telecomunicazioni, settori in cui si osservano notevoli occasioni per i giovani sia per la ricerca 
+di una prima occupazione che per il proseguimento degli studi.
+
+L'Istituto è stato scelto, insieme ad altre poche scuole sul territorio nazionale, dal Ministero dell'Istruzione 
+per sperimentare nuovi percorsi didattici e nuove strategie di comunicazione che portino all'innalzamento delle competenze 
+per tutti gli studenti e che si basino sull'innovazione tecnologica e sui nuovi ambienti di apprendimento. 
+
+//Le aule tradizionali 
+//sono state sostituite da aule-laboratorio specifiche per ogni materia e dotate di Lavagna interattiva Multimediale e 
+//personalizzate con attrezzature, arredi, libri e materiali didattici specifici per ciascuna disciplina.
+
+E' attiva una nuova specializzazione in Chimica, Materiali, Biotecnologie nell'articolazione Biotecnologie Sanitarie, 
+per aumentare la scelta e le opportunità dei giovani sul territorio.
+
+
+
+DIPLOMA
+Il ciclo completo ha durata di cinque anni e permette il conseguimento del diploma di Istruzione Tecnica 
+con il quale si può accedere immediatamente al mondo del lavoro oppure proseguire gli studi in tutte le facoltà 
+Universitarie ed al Politecnico.
+
+STAGE
+Al termine della classe quarta (per una durata di 4-5 settimane) e nel corso della classe quinta è offerta 
+agli studenti la possibilità di fruire di un periodo di tirocinio in azienda del settore elettronico, informatico 
+e legato alle telecomunicazioni, per orientare con maggior consapevolezza le proprie scelte future.
+    
+ORARIO SETTIMANALE
+Le lezioni dal lunedì al venerdì iniziano alle ore 8.10 e terminano alle ore 14.00 
+(con due intervalli di 15 minuti ciascuno). Le lezioni del sabato terminano alle ore 12.05.
+
+RISORSE DISPONIBILI
+Vengono organizzati interventi di recupero (corsi integrativi pomeridiani e consulenze personalizzate) ed iniziative complementari:
+
+partecipazione ai Campionati Sportivi Studenteschi
+attività sportive promozionali gratuite (basket, calcio...)
+organizzazione di visite e viaggi di istruzione
+accesso pomeridiano ai laboratori di informatica
+esami per certificazione ECDL, PET, FIRST, CISCO, Microsoft Technology Associate (MTA)​, PHP nn MySql
+eventi culturali aperti alle famiglie e alla cittadinanza
+laboratori culturali: giornale studentesco, teatro, olimpiadi di matematica, di chimica, di informatica
+corsi pomeridiani di musica, software audio, acustica nell'informatica e nell'elettronica
+
+
+
+
+
+
+
+
+
+OFFERTA FORMATIVA
+​​​
+L’Istituto Tecnico Industriale Ettore Majorana forma periti tecnici industriali negli indirizzi di "Informatica e 
+Telecomunicazioni", "Elettronica ed Elettrotecnica" e di "Chimica, Materiali e Biotecnologie" preparandoli ad inserirsi 
+rapidamente in realtà produttive tecnologicamente avanzate o a proseguire con successo gli studi universitari. Gli indirizzi 
+di studio, aggiornati dalla riforma delle scuole superiori, operano nel settore delle nuove tecnologie e sono ampliati da corsi 
+e attività che specializzano ulteriormente gli studenti sulle tematiche emergenti.
+
+offerta informatica 
+INFORMATICA
+Il perito per l'Informatica ha competenze nell'analisi sviluppo di programmi, librerie o componenti a basso livello; sa operare con i maggiori sistemi operativi e i protocolli di rete; è capace di progettare, realizzare, collaudare e manutenere basi di dati; ha la preparazione per realizzare siti internet e servizi personalizzati composti da pagine statiche o dinamiche, attraverso la padronanza acquisita nell'utilizzo di linguaggi web oriented.
+Trova impiego in software house, aziende di sviluppo di siti internet per pubblicizzazione e commercio elettronico, centri di elaborazione dati di grandi e medie aziende, aziende fornitrici di servizi di installazione e gestione reti, centri commerciali per supporto alla vendita di nuove tecnologie.
+
+TELECOMUNICAZIONI
+Il perito in Informatica con articolazione Telecomunicazioni opera e collabora all'analisi, al progetto, all'istallazione, alla configurazione e manutenzione delle reti di telecomunicazioni, di tipo locale e geografico, caratterizzate da infrastruttura fissa e mobile, in particolare per le problematiche di tipo hardware; applica la conoscenza dei mezzi trasmissivi, dei protocolli e dei dispositivi per la comunicazione per definire l'impiego in funzione della topologia appropriata e dei requisiti espressi dagli utenti.
+Trova impiego in aziende di installazione e assistenza reti, in aziende di telefonia fissa e mobile, in aziende di progettazione e costruzione di sistemi di puntamento (gps).
+
+
+
+
+Via F. Baracca, 80
+10095 Grugliasco
+Torino - Italy
+Tel. +39 011 411.33.34
+Fax +39 011 403.53.79
+
+Bienno:
+Nei primi due anni di corso si perfezionano gli strumenti conoscitivi e si completa l'acqusizione delle strategie che permettono di conoscere meglio sé stessi, 
+alimentando il senso di responsabilità e lo spirito critico; in particolare si consolidano le conoscenze acquisite della scuola media e si pongono le basi per la successiva 
+formazione di indirizzo in cui si svilupperanno le capacità progettuali basate su scelte autonome e consapevoli.
+
+Elettronica:
+L'indirizzo in Elettronica ed Elettrotecnica è rivolto a studenti che desiderano acquisire competenze sui sistemi elettrici, sui sistemi per l'automazione e sugli impianti elettrici.
+L'indirizzo prevede due articolazioni: "Elettronica" e "Automazione e Robotica".
+
+ARTICOLAZIONE ELETTRONICA
+Il perito interviene nei processi di produzione e conversione dell'energia elettrica, anche con fonti energetiche alternative, per ottimizzare i consumi e adeguare gli impianti e i dispositivi alle norme di sicurezza. Ha competenze nella progettazione, costruzione e collaudo degli impianti elettrici, dei sistemi elettronici analogici e digitali, nella elaborazione e trasmissione dei segnali elettrici. È in grado di programmare controllori e microprocessori.
+Trova impiego in aziende di produzione e manutenzione di sistemi elettronici di acquisizione e trasmissione dati, di impianti di generazione di energia, di impianti elettrici, di costruzione di apparecchiature elettriche ed elettroniche (apparecchiature biomedicali, antifurti, elettrodomestici, ecc...).
+
+ARTICOLAZIONE AUTOMATICA E ROBOTICA
+Il perito opera in tutti i settori civili ed industriali, con applicazioni in domotica, meccatronica, robotica ed automazione industriale. Ha competenze nella progettazione, costruzione e collaudo di sistemi di controllo automatico, di sviluppo e utilizzo di sistemi di acquisizione dati, di programmazione di controllori e microprocessori. Il corso si propone di favorire l'apprendimento dei sistemi elettronici robotizzati, delle tecniche di progettazione, simulazione e costruzione di robot.
+È richiesto in aziende di diversi settori industriale (alimentare, meccanico, trasporti, ecc...) che utilizzano impianti automatizzati di cui effettua anche la manutenzione e la riparazione.
+
+Biotecnologia:
+
+L'indirizzo in Chimica, Materiali e Biotecnologie è rivolto a studenti interessati alle materie scientifiche, alle tecnologie e alla loro evoluzione nel campo della chimica e delle biotecnologie.
+L'indirizzo prevede l'articolazione: "Biotecnologie sanitarie".
+
+
+//BOOL = -------------------TRUE------------------------
+BIOTECNOLOGIE SANITARIE
+Il perito in Chimica, Materiali e Biotecnologie Sanitarie ha competenze specifiche in ambito chimico, biologico, sanitario e farmaceutico. È in grado di integrare competenze di chimica, di biologia e microbiologia, di impianti e di processi chimici e biotecnologici, di organizzazione e automazione industriale, per contribuire all'innovazione dei processi, collaborare nella gestione delle strumentazioni di laboratorio di analisi.
+Ha competenze relative all'uso delle principali tecnologie sanitarie nel campo biomedicale, farmaceutico e alimentare e contribuisce alla promozione della salute personale e collettiva.
+Trova impiego in laboratori e strutture private e pubbliche del settore chimico, farmaceutico, cosmetico, sanitario.
+
+
+Il perito in Chimica, Materiali e Biotecnologie Sanitarie ha competenze specifiche in ambito chimico, biologico, sanitario e farmaceutico. 
+Ha competenze relative all'uso delle principali tecnologie sanitarie nel campo biomedicale, farmaceutico e alimentare e contribuisce alla promozione della salute personale e collettiva.
