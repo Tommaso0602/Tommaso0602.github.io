@@ -238,9 +238,13 @@ body {
     border: solid 3px black;
     padding: 15px;
     font-size: 20px;
-    
-
   }
+  @media(max-width: 600px){
+    
+    .tabella{
+      font-size: 10px;   
+    }
+}
 
   .materie{
     padding-right: 15px;
