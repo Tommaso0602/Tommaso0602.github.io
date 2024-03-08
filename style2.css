@@ -167,7 +167,7 @@ body {
   }
   
   .topnav a {
-    float: left;
+    float:inline-start;
     display: block;
     color: #f2f2f2;
     text-align: center;
@@ -182,7 +182,6 @@ body {
   }
   
   .topnav a.active {
-    background-color: #04AA6D;
     color: white;
   }
   
@@ -190,7 +189,7 @@ body {
     display: none;
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1024px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
       float: right;
@@ -198,7 +197,7 @@ body {
     }
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1024px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
       position: absolute;
@@ -212,4 +211,12 @@ body {
     }  
   
   }
+
+  .link{
+  text-align: center !important;
+  padding-right: 200px !important;
+  font-size: 22px !important;
+  }
+
+
   
