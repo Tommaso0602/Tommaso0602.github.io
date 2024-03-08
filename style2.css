@@ -189,7 +189,7 @@ body {
     display: none;
   }
   
-  @media screen and (max-width: 1024px) {
+  @media (max-width: 1024px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
       float: right;
@@ -197,7 +197,7 @@ body {
     }
   }
   
-  @media screen and (max-width: 1024px) {
+  @media  (max-width: 1024px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
       position: absolute;
@@ -219,4 +219,9 @@ body {
   }
 
 
-  
+  @media(max-width: 400px){
+    .titolo{
+      font-size: 40px;
+     
+  }
+  }
