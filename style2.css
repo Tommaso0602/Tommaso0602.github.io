@@ -233,3 +233,18 @@ body {
      
   }
   }
+  .tabella{
+    text-align: left;
+    border: solid 3px black;
+    padding: 15px;
+    font-size: 20px;
+    
+
+  }
+
+  .materie{
+    padding-right: 15px;
+  }
+  .ore{
+    padding-right: 15px;
+  }
