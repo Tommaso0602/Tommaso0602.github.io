@@ -249,7 +249,7 @@ body {
 
   @media(max-width: 400px){
     .titolo{
-      font-size: 20px;
+      font-size: 20px !important;
       padding-top: 60px !important;
       
   }
@@ -259,7 +259,7 @@ body {
   }
   @media(max-width: 600px){
     .titolo{
-      font-size: 30px;
+      font-size: 30px !important;
       padding-top: 60px !important;
       
   }
@@ -268,7 +268,7 @@ body {
 
   @media(max-width: 800px){
     .titolo{
-      font-size: 40px;
+      font-size: 40px !important;
       padding-top: 60px !important;
       
   }
