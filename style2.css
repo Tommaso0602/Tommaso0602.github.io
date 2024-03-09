@@ -249,12 +249,30 @@ body {
 
   @media(max-width: 400px){
     .titolo{
-      font-size: 30px;
+      font-size: 20px;
+      padding-top: 60px !important;
       
   }
   .paragrafo{
     text-align: left;
   }
+  }
+  @media(max-width: 600px){
+    .titolo{
+      font-size: 30px;
+      padding-top: 60px !important;
+      
+  }
+  
+  }
+
+  @media(max-width: 800px){
+    .titolo{
+      font-size: 40px;
+      padding-top: 60px !important;
+      
+  }
+  
   }
 
 
