@@ -312,6 +312,12 @@ body {
     .text {font-size: 11px}
   }
   
- 
-
+ /*tablet mode*/
+  @media(max-width: 1024px){
+    .slideshow-container {
+      max-width: 500px;
+      
+    }
+  
+  }
   
