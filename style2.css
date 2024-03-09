@@ -348,3 +348,10 @@ body {
 .video{
   border-radius: 10px;
 }
+
+@media(max-width: 400px){
+  .video{
+    width: 300px;
+    
+}
+}
