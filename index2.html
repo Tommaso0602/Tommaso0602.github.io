@@ -1,0 +1,165 @@
+<!DOCTYPE html> 
+  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, initial-scale=1">
+    <title>Sito Erasmus</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body id="bg">
+
+
+  <div class="spazi spazioNav" style="display: block;">
+    <div class="topnav spazi spazioNav navBar"  id="myTopnav">
+      <a href="index.html"><img src="logo tommi majorana.png" alt="" class="logo"></a>
+      <a href="offerta.html" class="link titolo">Educational offer</a>
+      <a href="#" class="link titolo">Pagina2</a>
+      <a href="#" class="link titolo">Pagina3</a>
+      <a href="#" class="link titolo">Pagina4</a>
+      <div class="container">
+        <input type="checkbox" id="theme-toggle" onclick="CambiaTema()">
+        <label for="theme-toggle"></label>
+      </div>
+      
+      <a href="javascript:void(0);" style="font-size: 37px; padding-top: 1.75vh;" class="icon" onclick="NavBar()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+    
+
+  </div>
+  
+<!--  <div class="spazi spazioNav">
+      <div class="navBar">
+         <a href="index.html"><img src="logo tommi majorana.png"  alt="" class="logo"></a>
+          <a href="offerta.html" class="link titolo">Educational offer</a>
+          <a href="#" class="link titolo">Pagina2</a>
+          
+          <a href="#" class="link">Pagina4</a> 
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars link" style="font-size: 37px; padding-top: 1.75vh;"></i>
+          </a>
+         <button id="temaBtn" onclick="CambiaTema()">change theme</button>
+      </div>--> 
+  
+        
+      <header>
+        <h2 id="majoscritta"> I.T.I. Ettore Majorana</h2>
+      </header>
+<center>
+        <div class=" " style="margin-top: -100px;">
+          <!-- Carousel -->
+          <div id="demo" class="carousel slide pippo" data-bs-ride="carousel"  style="margin-bottom: 10px; padding: 0.5px; width: 800px;" >
+
+            <!-- Indicators/dots -->
+            <div class="carousel-indicators">
+               <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+               <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+               <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+               <button type="button" data-bs-target="#demo" data-bs-slide-to="3"></button>
+               <button type="button" data-bs-target="#demo" data-bs-slide-to="4"></button>
+            </div>
+            
+
+            <!-- The slideshow/carousel -->
+          <div class="carousel-inner pippo " >
+                  <div class="carousel-item active">
+                    <img src="img/ITI Majorana Lab Lingustico 2 (4).jpg" alt="" class="d-block " style="width: 100%;">
+                  </div>
+                    <div class="carousel-item ">
+                      <img src="img/fotolab.jpg" alt="" class="d-block" style="width: 100%;">
+                  </div>
+                    <div class="carousel-item">
+                      <img src="img/ITI Majorana Lab Chimica (2).jpg" class="d-block" style="width: 100%;" >
+                      </div>
+                        <div class="carousel-item">
+                          <img src="img/ITI Majorana Lab Linguistico 1 (2).jpg" alt="" class="d-block" style="width: 100%;">
+                        </div>
+                <div class="carousel-item">
+                  <img  src="img/ITI Majorana Lab TPSIT (5).jpg" alt="" class="d-block" style="width: 100%;">
+                </div>
+         </div>
+
+         <!-- Left and right controls/icons -->
+         <button class="carousel-control-prev" style="background: linear-gradient(270deg, rgba(0,0,0,0), rgba(0,0,0,150));" type="button" data-bs-target="#demo" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" ></span>
+         </button>
+         <button class="carousel-control-next" style="background: linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0 ,150));" type="button" data-bs-target="#demo" data-bs-slide="next">
+         <span class="carousel-control-next-icon"></span>
+         </button>
+      </div>
+   </div>  
+</center>
+      
+      <section id="front">
+        <nav>
+          <ul class="ul">
+            <li><a href="PagInfo.html" style="text-decoration: none;" class="colore-testi offerte">Informatics</a></li>
+            <li><a href="PagEletrico.html" style="text-decoration: none;" class="colore-testi offerte">Electronics</a></li>
+            <li><a href="PagBio.html" style="text-decoration: none;" class="colore-testi offerte">Biotechnology</a></li>
+          </ul>
+        </nav>
+        
+        <article class="colore-testi">
+          <h1>Since 1976 TO SCHOOL 2.0</h1>
+          <p>THE ITI E. Majorana has been operating since 1976 at its Grugliasco location training industrial experts in computer science, </p>
+          <p>electronics and in telecommunications, sectors in which significant opportunities are observed for young people both to look for a first occupation and for the continuation of their studies.</p>
+        </article>
+      </section>
+      <article class="colore-testi">
+          <h1>Graduation</h1>
+          <p>The full cycle lasts five years and allows for the attainment of the Technical Education Diploma 
+            with which one can immediately enter the world of work or continue studies in all faculties 
+            University and at the Polytechnic.
+          </p>
+          <p>At the end of the fourth class (for a duration of 4-5 weeks) and during the fifth class, the following is offered 
+            students the opportunity to take advantage of an internship period in companies in the electronics, computer and telecommunications industries, in order to more consciously orient their future choices. 
+            and telecommunications, in order to more consciously orient their future choices.</p>
+        </article>
+        <article class="colore-testi">
+          <h1>Lorem</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a bibendum dolor. Proin rutrum, lacus posuere placerat tincidunt, lacus orci pharetra massa, in varius metus diam </p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a bibendum dolor. Proin rutrum, lacus posuere placerat tincidunt, lacus orci pharetra massa, in varius metus diam </p>
+        </article>
+        <article class="colore-testi">
+          <h1>Lorem</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a bibendum dolor. Proin rutrum, lacus posuere placerat tincidunt, lacus orci pharetra massa, in varius metus diam </p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a bibendum dolor. Proin rutrum, lacus posuere placerat tincidunt, lacus orci pharetra massa, in varius metus diam </p>
+        </article>
+      </div>
+  </div>
+      <br>
+  </div>
+  <footer class="footer row">
+    <section style="margin-left: 9%">
+      <ul class="footer-content scritta">
+        <li>
+          <img src="LogoMajoWeb-removebg-preview.png" alt="" class="logo">
+        </li>
+      </ul>
+      <div style="margin-left: 10%;">
+        <ul class="footer-content scritta">
+          <li><h4>Contatti</h4></li>
+          <li><br></li>
+          <li>Via F. Baracca, 80</li>
+          <li>10095 Grugliasco</li>
+          <li>Torino - Italy</li>
+          <li>Tel. +39 011 411.33.34</li>
+        </ul>
+      </div>
+      <ul class="footer-content scritta" style="margin-left: 20%;">
+        <a href="https://www.instagram.com/iti.majorana/?theme=dark"><img src="insta-removebg-preview.png" alt="Instagram" class="link-social"></a>
+        <a href="https://www.facebook.com/itimajo/?locale=it_IT"><img src="facebook.png"  class="link-social2" alt="Facebook" style="margin-bottom: 5px;"></a>
+        <a href="https://www.youtube.com/@itismajo"><img src="youtube.jpg" alt="Youtube" class="link-social"></a>
+        </ul>
+    </section>
+    
+    
+  </footer>
+  
+</body>
+</html>
