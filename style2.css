@@ -312,10 +312,19 @@ body {
     .text {font-size: 11px}
   }
   
- /*tablet mode*/
+ /*tablet view*/
   @media(max-width: 1024px){
     .slideshow-container {
       max-width: 400px;
+      
+    }
+  
+  }
+ /*phone view*/
+
+  @media(max-width: 600px){
+    .slideshow-container {
+      max-width: 300px;
       
     }
   
