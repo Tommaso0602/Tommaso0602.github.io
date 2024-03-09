@@ -313,9 +313,9 @@ body {
   }
   
  /*tablet mode*/
-  @media(max-width: 600px){
+  @media(max-width: 1024px){
     .slideshow-container {
-      max-width: 500px;
+      max-width: 400px;
       
     }
   
