@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 body {
     margin:0px;
   }
@@ -233,22 +234,7 @@ body {
      
   }
   }
-  .tabella{
-    text-align: left;
-    border: solid 3px black;
-    padding: 15px;
-    font-size: 20px;
-  }
-  @media(max-width: 320px){
-    
-    .tabella{
-      font-size: 10px;   
-    }
-}
+  
+ 
 
-  .materie{
-    padding-right: 15px;
-  }
-  .ore{
-    padding-right: 15px;
-  }
+  
